@@ -9,7 +9,7 @@ resolver = "3"
 merkrs = { path = "./merkrs"}
 
 alloy-primitives = "1.5.7"
-alloy-sol-types = "1.5.2"
+alloy-sol-types = "1.5.7"
 hex = "0.4"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
